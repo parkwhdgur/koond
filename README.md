@@ -20,4 +20,4 @@ $ npm run storybook
 $ npm run deploy-storybook
 ```
 
-[Github page](https://parkoon.github.io/koon-ui/)
+[Github page](https://parkoon.github.io/koond/)
